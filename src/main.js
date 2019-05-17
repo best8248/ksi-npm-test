@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import MD from './plugins/messagediv'
+
+
+Vue.use(MD)
 
 Vue.config.productionTip = false
 
