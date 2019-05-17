@@ -1,5 +1,5 @@
 <template>
-    <messageDiv message="메시지 내용."></messageDiv>
+  <alert></alert>
 </template>
 
 <script>

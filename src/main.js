@@ -3,12 +3,11 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import MD from './plugins/messagediv'
+import alert from 'component-distribute-test/alert'
 
-
-Vue.use(MD)
 
 Vue.config.productionTip = false
+Vue.use(alert)
 
 /* eslint-disable no-new */
 new Vue({

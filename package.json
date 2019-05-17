@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "at-ui": "^1.3.3",
+    "component-distribute-test": "github:best8248/component-distribute-test#master",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
